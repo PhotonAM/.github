@@ -1,5 +1,10 @@
 # Photon-AM
 
+
+<img src="https://github.com/PhotonAM/.github/blob/e3a1eb0b27f9ef7cdee364c79f8e37fde65b7b7f/profile/photon-asset-management-high-resolution-logo.png" alt="Alt Text" >
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
